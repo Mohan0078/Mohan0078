@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan Patel
 - 👀 I’m interested in Solving Real World Problems
-- 🌱 I love to use C# and dot net core.
+- 🌱 I love to use C# and .NET Core
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 <!---
