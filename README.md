@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohan Patel
-- 👀 I’m interested in Solving Real World Problems
+- 👀 I’m interested in solving real world problems
 - 🌱 I love to use C# and .NET Core
 
 <!---
